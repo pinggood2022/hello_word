@@ -1,2 +1,4 @@
 # hello_word
-very good
+
+Hi Humans!
+Hubot here,Ilike Node,js and Coffeescript
